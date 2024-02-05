@@ -1,0 +1,19 @@
+.chrono-container {
+  width: 100%;
+  height: 100%;
+}
+.mainContainer {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+.myJourney {
+  color: #171f46;
+  font-weight: 500;
+  margin: 3px;
+  margin-top: 18px;
+}
+.ccbp {
+  color: #1e293b;
+}
